@@ -27,11 +27,9 @@ Constraints:
 */
 
 import java.io.IOException;
-import java.util.Scanner;
 
 public class E01_TwoSum {
     public static void main(String[] args) throws IOException{
-        Scanner scan = new Scanner(System.in);        
         int[] nums = {2,7,11,15};
         int target = 9;
         twoSum(nums, target);
