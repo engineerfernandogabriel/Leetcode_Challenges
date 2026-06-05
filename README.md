@@ -13,5 +13,5 @@
 ---
 
 <p align="center">
-    🔗 Desenvolvido por <a href="https://www.linkedin.com/in/enginnerfernandogabriel/" target="_blank">Fernando Gabriel (Dev Samurai)</a>
+    🔗 Desenvolvido por <a href="https://www.linkedin.com/in/fernandogabrielengineer/" target="_blank">Fernando Gabriel (Dev Samurai)</a>
 </p>
